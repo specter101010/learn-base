@@ -6,7 +6,7 @@ export default {
       id: 1,
       title: "Website dan HTML",
       desc: "Pengenalan website dan struktur dasar HTML",
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      image: "https://course-net.com/wp-content/uploads/2022/11/html-tagst.jpeg",
       file: "/modules/web/html.pdf",
       type: "PDF"
     },
@@ -15,7 +15,7 @@ export default {
       id: 2,
       title: "CSS dan JavaScript",
       desc: "Dasar styling dengan CSS dan interaksi menggunakan JavaScript",
-      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkMx6AgIfPoebXmgPuGbfSpe5WWgsLnv0Dvw&s",
       file: "/modules/web/css-js.pdf",
       type: "PDF"
     },
@@ -24,7 +24,7 @@ export default {
       id: 3,
       title: "Implementasi HTML, CSS dan JavaScript",
       desc: "Membangun website lengkap menggunakan HTML, CSS, dan JavaScript",
-      image: "https://images.unsplash.com/photo-1504639725590-34d0984388bd",
+      image: "https://jogjaweb.co.id/wp-content/uploads/2016/12/173756_8a1e_2.jpg",
       file: "/modules/web/implementasi.pdf",
       type: "PDF"
     },
@@ -33,7 +33,7 @@ export default {
       id: 4,
       title: "Vue JS",
       desc: "Pengenalan framework Vue JS untuk membangun aplikasi modern",
-      image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      image: "https://s3.ap-south-1.amazonaws.com/stage.radixweb.com/medium_Introduction_to_Vue_JS_959ca27287.jpg",
       file: "/modules/web/vue.pdf",
       type: "PDF"
     },
@@ -42,16 +42,16 @@ export default {
       id: 5,
       title: "Data Binding dan Pengolahannya",
       desc: "Menghubungkan data dengan tampilan menggunakan Vue",
-      image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+      image: "https://sfdchub.com/wp-content/uploads/2023/03/One-way-data-binding-in-LWC.jpg",
       file: "/modules/web/databinding.pdf",
       type: "PDF"
     },
 
     {
       id: 6,
-      title: "Watcher dan Praktikum",
+      title: "Watcher",
       desc: "Menggunakan watcher untuk memantau perubahan data",
-      image: "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
+      image: "https://learn.microsoft.com/id-id/azure/network-watcher/media/connection-monitor-overview/connection-monitor-diagram.png",
       file: "/modules/web/watcher.pdf",
       type: "PDF"
     },
@@ -60,7 +60,7 @@ export default {
       id: 7,
       title: "Array, Filter dan Event Handling",
       desc: "Pengolahan array dan event handling di Vue",
-      image: "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+      image: "https://www.sekawanmedia.co.id/wp-content/uploads/2024/12/Getting-Started-with-Array-Data-Structure.webp",
       file: "/modules/web/array-event.pdf",
       type: "PDF"
     },
@@ -69,16 +69,16 @@ export default {
       id: 8,
       title: "Components, Canvas dan Animasi",
       desc: "Membuat komponen reusable dan animasi di Vue",
-      image: "https://images.unsplash.com/photo-1547658719-da2b51169166",
+      image: "https://v2.vuejs.org/images/components.png",
       file: "/modules/web/components.pdf",
       type: "PDF"
     },
 
     {
       id: 9,
-      title: "Database dan Praktikum",
+      title: "Database",
       desc: "Integrasi database dengan aplikasi web",
-      image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d",
+      image: "https://cdn.prod.website-files.com/6100d0111a4ed76bc1b9fd54/62db876029cb0876724c51e7_database%201.png",
       file: "/modules/web/database.pdf",
       type: "PDF"
     }
@@ -91,7 +91,7 @@ export default {
       id: 1,
       title: "Pengertian dan Ruang Lingkup Infrastruktur TI",
       desc: "Konsep dasar infrastruktur teknologi informasi",
-      image: "/images/modules/infrastruktur/infra1.jpg",
+      image: "https://audithink.com/wp-content/uploads/2024/07/ITInfrastructure_Matrix-NDI-ezgif.com-resize-1024x683.webp",
       file: "/modules/infrastruktur/pengertian.pdf",
       type: "PDF"
     },
@@ -100,7 +100,7 @@ export default {
       id: 2,
       title: "Perangkat Keras Teknologi Informasi",
       desc: "Hardware seperti server, komputer, dan perangkat jaringan",
-      image: "/images/modules/infrastruktur/infra2.jpg",
+      image: "https://portalnews.stekom.ac.id/media/15919/conversions/definisi-perangkat-keras-komputer-400x400.JPG",
       file: "/modules/infrastruktur/hardware.pdf",
       type: "PDF"
     },
@@ -109,7 +109,7 @@ export default {
       id: 3,
       title: "Perancangan dan Implementasi Jaringan",
       desc: "Perancangan topologi dan implementasi jaringan",
-      image: "/images/modules/infrastruktur/infra3.jpg",
+      image: "https://edavos.com/wp-content/uploads/2025/05/2-1-1024x576.webp",
       file: "/modules/infrastruktur/jaringan.pdf",
       type: "PDF"
     },
